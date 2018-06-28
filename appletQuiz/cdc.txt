@@ -1,0 +1,266 @@
+1. (201) What does the Defense Energy Support Center (DESC) determine the type, size, and number of fuel tanks needed at each base based on?
+a. Air Force standard design.
+b. The mission requirements.
+c. MAJCOM recommendation.
+d. Available construction dollars.
+2. (201) What will horizontal underground storage tanks and cut and cover tanks that issue jet fuel have on top of them?
+a. A pumphouse.
+b. A concrete cover.
+c. An open-air shed.
+d. Nothing, to prevent collapse of the tank.
+3. (201) All new tanks must have what kind of containment?
+a. A plastic liner.
+b. Leak detection.
+c. A concrete bottom.
+d. Double-wall construction or a dike.
+4. (201) What should you use when replacing a manway cover?
+a. New nuts and bolts.
+b. The old gasket if it is in good condition.
+c. A new gasket slightly thicker than the old one.
+d. A new gasket the same thickness as the old one.
+5. (201) Damage to a tank can occur if the
+a. vent or vent piping becomes clogged.
+b. tank has an anti-rotation device.
+c. low-level shut-off fails to work.
+d. high-level alarm fails to work.
+6. (202) Which type of aboveground tank can withstand very little pressure or vacuum during the filling or removal of fuel?
+a. Vertical.
+b. Cone roof.
+c. Floating roof tank.
+d. Cone roof tank with floating pan.
+7. (202) The product withdrawal line terminate inside a cone roof tank with a floating pan in a
+a. vertical position, 6 inches above the top of the sump.
+b. vertical position, 6 inches above the bottom of the sump.
+c. horizontal position, 6 inches above the top of the sump.
+d. horizontal position, 6 inches above the bottom of the sump.
+8. (202) What size is the water draw-off line in an all weather tank, and where does it terminate?
+a. ½ inch, ½ inch from the sump bottom.
+b. ½ inch, 1 inch from the sump bottom.
+c. ¾ inch, ½ inch from the sump bottom.
+d. ¾ inch, 1 inch from the sump bottom.
+9. (202) In the northern hemisphere, which way will the inlet line on an all-weather tank cause the fuel to rotate, and what degree is the line turned?
+a. Clock-wise, 45?.
+b. Clock-wise, 60?.
+c. Counterclockwise, 45?.
+d. Counterclockwise, 60?.
+10. (202) At what level does the high-level alarm actuate on a cone roof with floating pan?
+a. Just before the high-level shut-off level.
+b. Just after the high-level shut-off level.
+c. Just before the high-high level alarm.
+d. Just after the high-high level alarm.
+11. (202) What level above the tank bottom is the low-level shut-off set at on a 25,000 bbl cone roof tank with floating pan?
+a. 18 inches.
+b. 24 inches.
+c. 27 inches.
+d. 30 inches.
+12. (202) At what level are the support legs on a cone roof tank with floating pan set at for day-to-day business?
+a. 1½ feet.
+b. 3 feet.
+c. 4½ feet.
+d. 6 feet.
+13. (202) What type of vent is located on a floating pan?
+a. Slot.
+b. Open.
+c. Bleeder.
+d. Overflow.
+14. (203) The wind girder is installed on floating roof tanks to
+a. keep the roof from rotating.
+b. prevent the collapse of the tank shell.
+c. provide a vapor recovery area under the roof.
+d. provide a path to the ground for static electricity.
+15. (203) The roof guide is installed on floating roof tanks to
+a. keep the roof from rotating.
+b. prevent the collapse of the tank shell.
+c. provide a vapor recovery area under the roof.
+d. provide a path to the ground for static electricity.
+16. (203) The double-deck floating roof tank is the most efficient type of roof because the roof
+a. slopes to the center.
+b. support legs are adjustable.
+c. has insulating air space between decks.
+d. water drains easily toward the center.
+17. (204) About how far above the tank floor is the first stage of the deep-well turbine pump located?
+a. 3 inches.
+b. 6 inches.
+c. 9 inches.
+d. 12 inches.
+18. (204) What size is the cleanout line on an underground tank, and where does it terminate outside the tank?
+a. ½ inch, 6 inches above ground level.
+b. ½ inch, 12 inches above ground level.
+c. ¾ inch, 6 inches above ground level.
+d. ¾ inch, 12 inches above ground level.
+19. (205) You must clean a bulk storage tank that has a receiving filter separator and is internally coated every
+a. 4 years.
+b. 6 years.
+c. 8 years.
+d. 10 years.
+20. (205) You must clean an operating storage tank that does not have a receiving filter separator but has internal coating every
+a. 4 years.
+b. 6 years.
+c. 8 years.
+d. 10 years.
+21. (205) You must clean an operating tank that is not internally coated and does not have a receiving filter separator every
+a. 4 years.
+b. 6 years.
+c. 8 years.
+d. 10 years.
+22. (205) How often do you clean a Mogas or diesel tank?
+a. 4 years.
+b. 6 years.
+c. 8 years.
+d. By direction of the fuels management office.
+23. (205) How is the product identification displayed on an aboveground tank?
+a. Yellow bands with white letters on a black background.
+b. Yellow bands with black letters on a white background.
+c. Black bands with white letters on a yellow background.
+d. Black bands with yellow letters on a white background.
+24. (205) How many bands are used to identify JP–8 fuel?
+a. One.
+b. Two.
+c. Three.
+d. Four.
+25. (206) The fuse link on a fuse link valve used on a cone roof tank will normally melt at what temperature?
+a. 160° F.
+b. 180° F.
+c. 200° F.
+d. 220° F.
+26. (206) When manually gauging a tank, why must you keep the tape in contact with the gauge pipe?
+a. To keep the tape from twisting.
+b. To easily read the tape increments.
+c. To prevent the discharge of a spark.
+d. To steady the tape when lowering the bob.
+27. (207) When the roof supports on a floating roof tank are in the UP position, at what level will the roof rest above the floor?
+a. 3 feet.
+b. 4 feet.
+c. 5 feet.
+d. 6 feet.
+28. (207) At what level must the automatic bleeder vent supports be set when preparing for an internal inspection and cleaning?
+a. 3 feet.
+b. 4 feet.
+c. 5 feet.
+d. 6 feet.
+29. (207) What prevents fuel from entering a roof drain line?
+a. Flange gaskets and Teflon® ring packing.
+b. Flange gaskets and asbestos ring packing.
+c. Threaded gaskets and Teflon® ring packing.
+d. Threaded gaskets and asbestos ring packing.
+30. (207) In extremely cold climates, what should you do to the roof drain line?
+a. Fill it with salt water.
+b. Fill it with antifreeze only.
+c. Fill it with 10 SAE weight oil.
+d. Fill it with 50/50 mix of antifreeze and water.
+31. (207) What is the inspection frequency for the fabric seal on a floating roof tank?
+a. Weekly.
+b. Monthly.
+c. Semi-annual.
+d. Annually.
+32. (207) When filling the tank to check thgh-high-level alarm, what must be disabled?
+a. The high-level alarm.
+b. The low-level switch.
+c. The low-level shut-off valve.
+d. The high-level shut-off valve.
+33. (208) What would you use to check the liquidometer accuracy?
+a. Tape and bob.
+b. Liquid level float.
+c. Liquid level gauge.
+d. Weighted gauge tester.
+34. (208) How would you take care of internal corrosion for the low-level control attached to the liquidometer?
+a. Wire brush clean and replace the cover gasket.
+b. Wire brush clean and replace the cover.
+c. Air it out and replace the cover gasket.
+d. Air it out and replace the cover.
+35. (209) How long before entering a fuel tank must you request permission from your MAJCOM?
+a. 10 days.
+b. 15 days.
+c. 10 workdays.
+d. 15 workdays.
+36. (209) Who will assign a qualified tank entry supervisor to supervise a tank cleaning operation?
+a. Shop supervisor.
+b. Section superintendent.
+c. Base safety.
+d. MAJCOM fuels engineer.
+37. (209) Which one of the following is not the responsibility of the MAJCOM fuels engineer’s representative during the contract cleaning of a fuel tank?
+a. To inspect the contractor’s equipment.
+b. To advise the contractor of known potential hazards.
+c. To stop the contractor’s work for contract violations.
+d. To act as the quality assurance evaluator pertaining to the work.
+38. (210) Which of the following fuels normally contains a higher concentration of benzene?
+a. JP–4.
+b. JP–8.
+c. Diesel.
+d. Gasoline.
+39. (211) During tank cleaning, when should you remove heavily contaminated clothing?
+a. Immediately, after leaving the area.
+b. After being drenched with water.
+c. At the end of the day, after leaving the area.
+d. At the end of the day, after being drenched with water.
+40. (211) Communication gear must be used during the cleaning of an underground JP–8 tank when the
+a. tank capacity is 10,000 gallons.
+b. tank capacity is 25,000 gallons.
+c. manhole access is 6 feet below ground level.
+d. manhole access is 12 feet below ground level.
+41. (211) All electrical equipment to be used within 50 feet of any fuel system must be defined as which class in the National Electrical Code?
+a. Class I, Division I, Group C.
+b. Class I, Division I, Group D.
+c. Class I, Division II, Group C.
+d. Class I, Division II, Group D.
+42. (211) A safety harness, used in tank cleaning, is good for a maximum of how many years from the date stamped on the harness?
+a. 5.
+b. 10.
+c. 15.
+d. 20.
+43. (212) Artificial lights, other than battery-powered safety lanterns, can be used only during tank cleaning after what condition is met?
+a. The tank cleaning supervisor has made their initial entry.
+b. The LEL inside the tank is below 20 percent.
+c. The tank has been washed down.
+d. The tank is vapor free.
+44. (212) During initial cleaning, at what percent of the lower explosive limit (LEL) must you suspend washing down a tank?
+a. 10.
+b. 20.
+c. 30.
+d. 40.
+45. (212) At what vapor level may workers initially enter a tank for tank cleaning?
+a. Below 10 percent LEL.
+b. Below 20 percent LEL.
+c. Below 40 percent LEL.
+d. Below 50 percent LEL.
+46. (212) During tank cleaning, how often must you record a vapor reading?
+a. Every 10 minutes.
+b. Every 15 minutes.
+c. At the beginning of the tank cleaning.
+d. At the beginning and end of the tank cleaning.
+47. (212) When can people enter a fuel tank without protective equipment?
+a. 0 percent LEL only.
+b. 0 percent LEL and the tank has been washed out and dried.
+c. 0 percent LEL, the tank has been washed out and dried, the tank is known never to have
+contained leaded fuel, and the Bioenvironmental Engineer has approved their entry.
+d. Never.
+48. (213) What must be done to fuel pumps and motors located in a pit if they are to be abandoned?
+a. Drained only.
+b. Drained and capped off.
+c. Remove, capped off and oiled.
+d. Removed and stored in a dry place.
+49. (213) What must be done to meters in a pit that is to be abandoned?
+a. Drained only.
+b. Drained and capped off.
+c. Drained, capped off and oiled.
+d. Drained, removed, oiled, and placed in storage.
+50. (214) How do you reset the lower explosive limit (LEL) sensor on the MultiRAE PGM–50?
+a. Press the “reset” button.
+b. Sample fresh air for 60 seconds then press the “Y/+” button.
+c. Turn the unit off then back on.
+d. PMEL must replace the sensor.
+51. (214) What is the minimum recommended voltage for the MultiRAE PGM–50?
+a. 4.2 volts.
+b. 4.4 volts.
+c. 4.8 volts.
+d. 5.2 volts.
+52. (215) What should you do if the restriction indicator on a MC–7 air compressor is tripped?
+a. Reset the indicator.
+b. Clean the air filter element.
+c. Insure the unloader valve is open.
+d. Partially close the air discharge service valves.
+53. (216) Electrical controls in hazardous areas must be proofed (protected) against
+a. dust.
+b. vapor.
+c. weather.
+d. explosion.
